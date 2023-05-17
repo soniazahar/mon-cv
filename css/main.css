@@ -22,7 +22,7 @@ ul li{
 }
 .home h1 span,.home h2 span{ 
   color: #ffb400;
-  font-weight: bold;
+  font-weight: 500;
 }
 .home h2 {
   font-weight: 400;
@@ -37,7 +37,7 @@ ul li{
 
 .home__name--last {
   color: #ffb400;
-  font-weight: 700;
+  font-weight:500;
 }
 
 .menu-btn {
@@ -166,7 +166,7 @@ ul li{
   font-size: 3rem;
   text-transform: uppercase;
   padding: 2rem 0;
-  font-weight: 600;
+  font-weight: 500;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
  
@@ -432,7 +432,7 @@ ul li{
   .nav .menu-nav__link {
     font-size: 1.8rem;
     position: relative;
-    font-weight: 600;
+    font-weight: 500;
     transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
