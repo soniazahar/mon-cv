@@ -29,7 +29,7 @@ ul li{
   font-size: 2.5rem;
 }
 .home__name {
-  font-size: 5rem;
+  font-size: 3rem;
   padding-bottom: 1rem;
   margin-bottom: 1rem;
   border-bottom: 5px solid #7fb800;
@@ -110,7 +110,7 @@ ul li{
   opacity: 0.98;
   visibility: hidden;
   position: fixed;
-  background-color: rgba(0, 0, 0, 0.753);
+  background-color: rgba(0, 0, 0, 0.856);
 }
 
 .nav.open {
